@@ -1,6 +1,6 @@
 ### Hi, my name is Dato and I'm programmer!
 ## My front-end skills:
-</br>
+<br>
 # HTML and CSS
 # JavaScript
 # Bootstrap
