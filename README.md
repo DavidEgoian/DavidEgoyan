@@ -1,8 +1,9 @@
 ### Hi, my name is Dato and I'm programmer!
-##My front-end skills:
-#HTML and CSS
-#JavaScript
-#Bootstrap
+## My front-end skills:
+</br>
+# HTML and CSS
+# JavaScript
+# Bootstrap
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datoegoyan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
