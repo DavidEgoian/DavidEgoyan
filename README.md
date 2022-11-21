@@ -1,4 +1,4 @@
-### Hi, my name is Dato and I'm programmer!
+### Hi, my name is Dato and I'm a programmer!
 
 <div align="center">
   <a href="https://github.com/datoegoyan">
