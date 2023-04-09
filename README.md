@@ -1,4 +1,4 @@
-### Hi, my name is David!
+### 👋 Hi, my name is David!
 I'm full-stack developer and student. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
 <div align="center">
