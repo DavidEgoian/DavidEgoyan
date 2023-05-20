@@ -7,7 +7,7 @@ I'm full-stack developer and student. All coding projects are built from the gro
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEgoyan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <br>
-<p><a href="https://www.buymeacoffee.com/davidegoyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="David" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/davidegoyan" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="David" /></a></p><br><br>
   
 ### 🧰 Languages and Tools
  
