@@ -3,7 +3,7 @@ I'm full-stack developer and student. All coding projects are built from the gro
 
 <div align="center">
   <a href="https://github.com/datoegoyan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidEgoyan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidEgoyan&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEgoyan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <br>
