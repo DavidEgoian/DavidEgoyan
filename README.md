@@ -2,7 +2,7 @@
 I'm full-stack developer and student. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
 <div align="center">
-  <a href="https://github.com/datoegoyan">
+  <a href="https://github.com/DavidEgoyan">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DavidEgoyan&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidEgoyan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
