@@ -1,7 +1,7 @@
 ### 👋 Hi, my name is David!
 I'm full-stack developer and student. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
-<div align="center">
+<div align="center" display = "flex">
   <a href="https://github.com/DavidEgoyan">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DavidEgoyan&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidEgoyan&theme=dark&layout=compact&hide=html"/>
