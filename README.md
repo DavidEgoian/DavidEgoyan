@@ -3,8 +3,7 @@ I'm full-stack developer and student. All coding projects are built from the gro
 
 <div align="center">
   <a href="https://github.com/DavidEgoyan">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DavidEgoyan&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidEgoyan&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DavidEgoyan&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
 </div>
  <br>
 <p><a href="https://www.buymeacoffee.com/davidegoyan" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="David" /></a></p><br><br>
